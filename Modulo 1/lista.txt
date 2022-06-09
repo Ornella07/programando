@@ -3,3 +3,6 @@ Leche
 Yogurt
 Cereales
 Yerba
+Manzana
+Pera
+Bananas
